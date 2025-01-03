@@ -1,0 +1,11 @@
+Do you understand Eventloop ?
+
+-> Synchronous code run first and output goes to main stack
+-> Asynchronous code run after Synchronous code and output goes to side stack 
+   while code runs completely then the output goes to main stack
+so eventloop checks the Synchronous code run completely then it runs the asynchronous code.
+
+
+Google: JavaScript has a runtime model based on an event loop, 
+        which is responsible for executing the code, collecting and processing events, 
+        and executing queued sub-tasks. 

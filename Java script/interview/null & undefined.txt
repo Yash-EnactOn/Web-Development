@@ -1,0 +1,12 @@
+We talk a lot about null and undefined in
+JavaScript , do you understand what
+exactly those terms are ? and what is
+the difference between those?
+
+
+undefined
+var a;       ( we not give a value to "a" )
+
+null
+i have one string "sky" and i write code to find "i" in the string 
+code gives output "null"
